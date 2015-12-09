@@ -20,6 +20,7 @@
 //#pragma link C++ class larlite::ContainedMC+;
 #pragma link C++ class larlite::Pi0Reco+;
 #pragma link C++ class ertool::EREffCorrectAna+;
+#pragma link C++ class ertool::ERAnaMassInspect+;
 //#pragma link C++ class ertool::EREffpi0split+;
 
 
